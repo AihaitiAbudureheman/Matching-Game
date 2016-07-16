@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+}
+.container {
+    width: 1010px;
+    margin: 0 auto;
+}
+#leftSide {
+    width: 500px;
+    height: 500px;
+    float: left;
+    position: absolute;
+}
+#rightSide {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    border-left: 1px solid black;
+    left: 636px;
+}
